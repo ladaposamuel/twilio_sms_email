@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^3.3",
+        "twilio/sdk": "^5.28",
+        "sendgrid/sendgrid": "~7"
+    }
+}
